@@ -1,4 +1,4 @@
-# hissab_maxis
+# Hisaab Kitaab, A Flutter app
 
 A new Flutter project.
 
